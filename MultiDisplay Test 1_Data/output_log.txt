@@ -1,0 +1,54 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+d3d11: failed to create D3D11 device (0x887a0020)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [aticfx32.dll 8.17.10.1433]
+    Renderer: AMD Radeon HD 8610G
+    Vendor:   ATI
+    VRAM:     2786 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 NULL=1 RESZ=1 SlowINTZ=1 ATOC=0 BC4=1 BC5=1
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\User\Desktop\Dunjions\Dunjions\MultiDisplay Test 1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\User\Desktop\Dunjions\Dunjions\MultiDisplay Test 1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Desktop\Dunjions\Dunjions\MultiDisplay Test 1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\User\Desktop\Dunjions\Dunjions\MultiDisplay Test 1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Desktop\Dunjions\Dunjions\MultiDisplay Test 1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\User\Desktop\Dunjions\Dunjions\MultiDisplay Test 1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Desktop\Dunjions\Dunjions\MultiDisplay Test 1_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\User\Desktop\Dunjions\Dunjions\MultiDisplay Test 1_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Desktop\Dunjions\Dunjions\MultiDisplay Test 1_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\User\Desktop\Dunjions\Dunjions\MultiDisplay Test 1_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Desktop\Dunjions\Dunjions\MultiDisplay Test 1_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\User\Desktop\Dunjions\Dunjions\MultiDisplay Test 1_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.359 seconds
+Platform assembly: C:\Users\User\Desktop\Dunjions\Dunjions\MultiDisplay Test 1_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\User\Desktop\Dunjions\Dunjions\MultiDisplay Test 1_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.052807 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 64.605782 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 10896.
+Total: 18.081509 ms (FindLiveObjects: 1.154398 ms CreateObjectMapping: 0.320964 ms MarkObjects: 16.548500 ms  DeleteObjects: 0.042502 ms)
+
+IsolatedStorageException: Could not find a part of the path "C:\Users\User\Desktop\Dunjions\Dunjions\MultiDisplay Test 1_Data\Output\Sessions\test 9-6-2017  6-30-13  PM.txt".
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean anonymous, FileOptions options) [0x00000] in <filename unknown>:0 
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share) [0x00000] in <filename unknown>:0 
+  at System.IO.StreamWriter..ctor (System.String path, Boolean append, System.Text.Encoding encoding, Int32 bufferSize) [0x00000] in <filename unknown>:0 
+  at System.IO.StreamWriter..ctor (System.String path, Boolean append) [0x00000] in <filename unknown>:0 
+  at System.IO.File.AppendAllText (System.String path, System.String contents) [0x00000] in <filename unknown>:0 
+  at ArtificialIntelligence.writeData (Boolean death) [0x00000] in <filename unknown>:0 
+  at ArtificialIntelligence.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Setting spawn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2b40 -> priority: 1 

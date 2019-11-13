@@ -1,0 +1,339 @@
+fileFormatVersion: 2
+guid: 8cf5a316b215d50459f639dc0863d75c
+timeCreated: 1480534000
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: demon_attack_0
+    21300002: demon_attack_1
+    21300004: demon_attack_2
+    21300006: demon_attack_3
+    21300008: demon_attack_4
+    21300010: demon_attack_5
+    21300012: demon_attack_6
+    21300014: demon_attack_7
+    21300016: demon_attack_8
+    21300018: demon_attack_9
+    21300020: demon_attack_10
+    21300022: demon_attack_11
+    21300024: demon_attack_12
+    21300026: demon_attack_13
+    21300028: demon_attack_14
+    21300030: demon_attack_16
+    21300032: demon_attack_18
+    21300034: demon_attack_20
+    21300036: demon_attack_22
+    21300038: demon_attack_23
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: demon_attack_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 851
+        width: 90
+        height: 80
+      alignment: 9
+      pivot: {x: 0.47867164, y: 0.5959778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: demon_attack_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 851
+        width: 90
+        height: 80
+      alignment: 9
+      pivot: {x: 0.48933563, y: 0.5959778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: demon_attack_2
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 853
+        width: 86
+        height: 75
+      alignment: 9
+      pivot: {x: 0.48883945, y: 0.5895793}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: demon_attack_3
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 853
+        width: 86
+        height: 75
+      alignment: 9
+      pivot: {x: 0.4888398, y: 0.5767822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: demon_attack_4
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 667
+        width: 83
+        height: 73
+      alignment: 9
+      pivot: {x: 0.44218174, y: 0.57888585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: demon_attack_5
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 667
+        width: 83
+        height: 73
+      alignment: 9
+      pivot: {x: 0.44218206, y: 0.5920335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: demon_attack_6
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 670
+        width: 90
+        height: 68
+      alignment: 9
+      pivot: {x: 0.35070056, y: 0.5705719}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: demon_attack_7
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 670
+        width: 90
+        height: 68
+      alignment: 9
+      pivot: {x: 0.3400367, y: 0.5846863}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: demon_attack_8
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 482
+        width: 108
+        height: 73
+      alignment: 9
+      pivot: {x: 0.26894164, y: 0.57888585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: demon_attack_9
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 482
+        width: 108
+        height: 73
+      alignment: 9
+      pivot: {x: 0.26005456, y: 0.5657382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: demon_attack_10
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 481
+        width: 107
+        height: 86
+      alignment: 9
+      pivot: {x: 0.25781193, y: 0.5111602}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: demon_attack_11
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 481
+        width: 107
+        height: 86
+      alignment: 9
+      pivot: {x: 0.2578122, y: 0.5111602}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: demon_attack_12
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 294
+        width: 105
+        height: 84
+      alignment: 9
+      pivot: {x: 0.2623397, y: 0.49999964}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: demon_attack_13
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 294
+        width: 105
+        height: 84
+      alignment: 9
+      pivot: {x: 0.25319925, y: 0.49999964}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: demon_attack_14
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 294
+        width: 109
+        height: 80
+      alignment: 9
+      pivot: {x: 0.28867248, y: 0.4880024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: demon_attack_16
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 294
+        width: 110
+        height: 80
+      alignment: 9
+      pivot: {x: 0.28186783, y: 0.4880024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: demon_attack_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 79
+        width: 136
+        height: 93
+      alignment: 9
+      pivot: {x: 0.42942798, y: 0.67544377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: demon_attack_20
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 80
+        width: 135
+        height: 92
+      alignment: 9
+      pivot: {x: 0.42890513, y: 0.66691804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: demon_attack_22
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 86
+        width: 110
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5000003, y: 0.6580816}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: demon_attack_23
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 86
+        width: 111
+        height: 85
+      alignment: 9
+      pivot: {x: 0.50864667, y: 0.6580816}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

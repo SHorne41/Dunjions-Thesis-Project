@@ -1,0 +1,44 @@
+
+ 
+ 
+ 
+ 
+ 
+ =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== ===========
+ ===========            *           *            *            *             *                *                *               *            *            *     
+ ===========                                THIS IS THE BEGINNING OF A NEW TEST ------------ 10/17/2017 2:00:42 PM 
+ ===========        *         *           *             *            *              *                 *                *             *         * 
+ =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== ===========
+ 
+    
+ -----------------------------------------------
+| STARTING statistics
+ -----------------------------------------------
+ 
+            |  HEALTH  |  SPEED  |  ATTACK  |  ATTACKSPEED  |  ATTACKRANGE  |  WEBFREQUENCY  |  FIREBALL SPEED |    
+            |----------|---------|----------|---------------|---------------|----------------|-----------------| 
+  Skeleton  |     1    |    1    |     1    |       1       |       1       |       --       |       --        
+  RedMons   |     1    |    1    |     1    |       1       |       1       |       --       |        1        
+  GreenMons |     1    |    1    |     1    |       1       |      --       |       --       |        1        
+  Spider    |     1    |    1    |     1    |      --       |      --       |        1       |       --        
+ 
+ 
+The AI has been DISABLED by the Wizard. Parameters being altered by UI
+ 
+ 
+The AI has been DISABLED by the Wizard. Parameters being altered by UI
+ 
+ 
+The AI has been DISABLED by the Wizard. Parameters being altered by UI
+ 
+ 
+The AI has been DISABLED by the Wizard. Parameters being altered by UI
+ 
+ 
+The AI has been DISABLED by the Wizard. Parameters being altered by UI
+ 
+ 
+The AI has been DISABLED by the Wizard. Parameters being altered by UI
+ 
+ 
+The AI has been DISABLED by the Wizard. Parameters being altered by UI

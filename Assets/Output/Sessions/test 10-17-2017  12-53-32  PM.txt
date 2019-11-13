@@ -1,0 +1,1541 @@
+
+ 
+ 
+ 
+ 
+ 
+ =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== ===========
+ ===========            *           *            *            *             *                *                *               *            *            *     
+ ===========                                THIS IS THE BEGINNING OF A NEW TEST ------------ 10/17/2017 12:53:32 PM 
+ ===========        *         *           *             *            *              *                 *                *             *         * 
+ =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== ===========
+ 
+    
+ -----------------------------------------------
+| STARTING statistics
+ -----------------------------------------------
+ 
+            |  HEALTH  |  SPEED  |  ATTACK  |  ATTACKSPEED  |  ATTACKRANGE  |  WEBFREQUENCY  |  FIREBALL SPEED |    
+            |----------|---------|----------|---------------|---------------|----------------|-----------------| 
+  Skeleton  |     1    |    1    |     1    |       1       |       1       |       --       |       --        
+  RedMons   |     1    |    1    |     1    |       1       |       1       |       --       |        1        
+  GreenMons |     1    |    1    |     1    |       1       |      --       |       --       |        1        
+  Spider    |     1    |    1    |     1    |      --       |      --       |        1       |       --        
+ 
+ 
+    
+    
+ =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== ===========
+ ===========                                CURRENT   AI   REPORT   COUNT: 1   REPORT TYPE:  CHECKPOINT
+ ===========                                                        Statistics              
+ =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== ===========
+ 
+ 
+ -----------------------------------------------
+| GIVEN damage over time period of last stage
+ -----------------------------------------------
+
+            | ENEMIES      | ENEMIES      |  AVERAGE     |  TOTAL       | ENEMIES      | ENEMIES      | AVERAGE      | TOTAL        |
+            | HIT          | KILLED       |  DAMAGE      |  DAMAGE      | HIT(ALL)     | KILLED(ALL)  | DAMAGE(ALL)  | DAMAGE(ALL ) |
+            |--------------|--------------|--------------|--------------|--------------|--------------|--------------|--------------|    
+  Skeleton  |       0      |       0      |     NaN      |       0      |       0      |       0      |     NaN      |       0      |
+  RedMons   |       0      |       0      |     NaN      |       0      |       0      |       0      |     NaN      |       0      |
+  GreenMons |       0      |       0      |     NaN      |       0      |       0      |       0      |     NaN      |       0      |
+  Spider    |       0      |       0      |     NaN      |       0      |       0      |       0      |     NaN      |       0      |
+ 
+ --------------------------------------------------
+| RECEIVED damage over time period of last stage
+ --------------------------------------------------
+ 
+            | DAMAGE      | DAMAGE      | HEALTH     | 
+            | THIS ROUND  | OVERALL     | RECEIVED   |
+  Skeleton  |      0      |      0      |     --     |
+  RedMons   |      0      |      0      |     --     |
+  GreenMons |      0      |      0      |     --     |
+  Spider    |      0      |      0      |     --     |
+  TOTAL     |      0      |      0      |     --     |
+  Hearts    |     --      |     --      |      0     |
+ 
+ 
+ ----------------------------
+| PREVIOUS AI configuration 
+ ----------------------------
+ 
+            |  HEALTH  |  SPEED  |  ATTACK  |  ATTACKSPEED  |  ATTACKRANGE  |  WEBFREQUENCY  |  FIREBALL SPEED |    
+            |----------|---------|----------|---------------|---------------|----------------|-----------------| 
+  Skeleton  |     1    |    1    |     1    |       1       |       1       |       --       |       --        |
+  RedMons   |     1    |    1    |     1    |       1       |       1       |       --       |        1        |
+  GreenMons |     1    |    1    |     1    |       1       |      --       |       --       |        1        |
+  Spider    |     1    |    1    |     1    |      --       |      --       |        1       |       --        |
+
+ ---------------
+| MODIFICATIONS  
+ ---------------
+ 
+                   Completion Efficiency - Health left on Checkpoint:100%  > 60% - Moderate Adjustment: 1.156381
+                   
+ 
+ ----------------------------
+| MODIFIED AI configuration 
+ ----------------------------
+ 
+            |  HEALTH  |  SPEED  |  ATTACK  |  ATTACKSPEED  |  ATTACKRANGE  |  WEBFREQUENCY  |  FIREBALL SPEED |    
+            |----------|---------|----------|---------------|---------------|----------------|-----------------| 
+  Skeleton  |     1    |    1    |     1    |       1       |       1       |       --       |       --        
+  RedMons   |     1    |    1    |     1    |       1       |       1       |       --       |        1        
+  GreenMons |     1    |    1    |     1    |       1       |      --       |       --       |        1        
+  Spider    |     1    |    1    |     1    |      --       |      --       |        1       |       --        
+ 
+ 
+ 
+ 
+    
+    
+ =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== ===========
+ ===========                                CURRENT   AI   REPORT   COUNT: 2   REPORT TYPE:  CHECKPOINT
+ ===========                                                        Statistics              
+ =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== ===========
+ 
+ 
+ -----------------------------------------------
+| GIVEN damage over time period of last stage
+ -----------------------------------------------
+
+            | ENEMIES      | ENEMIES      |  AVERAGE     |  TOTAL       | ENEMIES      | ENEMIES      | AVERAGE      | TOTAL        |
+            | HIT          | KILLED       |  DAMAGE      |  DAMAGE      | HIT(ALL)     | KILLED(ALL)  | DAMAGE(ALL)  | DAMAGE(ALL ) |
+            |--------------|--------------|--------------|--------------|--------------|--------------|--------------|--------------|    
+  Skeleton  |       0      |       0      |     NaN      |       0      |       0      |       0      |     NaN      |       0      |
+  RedMons   |       0      |       0      |     NaN      |       0      |       0      |       0      |     NaN      |       0      |
+  GreenMons |       0      |       0      |     NaN      |       0      |       0      |       0      |     NaN      |       0      |
+  Spider    |       0      |       0      |     NaN      |       0      |       0      |       0      |     NaN      |       0      |
+ 
+ --------------------------------------------------
+| RECEIVED damage over time period of last stage
+ --------------------------------------------------
+ 
+            | DAMAGE      | DAMAGE      | HEALTH     | 
+            | THIS ROUND  | OVERALL     | RECEIVED   |
+  Skeleton  |      0      |      0      |     --     |
+  RedMons   |      0      |      0      |     --     |
+  GreenMons |      0      |      0      |     --     |
+  Spider    |      0      |      0      |     --     |
+  TOTAL     |      0      |      0      |     --     |
+  Hearts    |     --      |     --      |      0     |
+ 
+ 
+ ----------------------------
+| PREVIOUS AI configuration 
+ ----------------------------
+ 
+            |  HEALTH  |  SPEED  |  ATTACK  |  ATTACKSPEED  |  ATTACKRANGE  |  WEBFREQUENCY  |  FIREBALL SPEED |    
+            |----------|---------|----------|---------------|---------------|----------------|-----------------| 
+  Skeleton  |     1    |    1    |     1    |       1       |       1       |       --       |       --        |
+  RedMons   |     1    |    1    |     1    |       1       |       1       |       --       |        1        |
+  GreenMons |     1    |    1    |     1    |       1       |      --       |       --       |        1        |
+  Spider    |     1    |    1    |     1    |      --       |      --       |        1       |       --        |
+
+ ---------------
+| MODIFICATIONS  
+ ---------------
+ 
+                   Completion Efficiency - Health left on Checkpoint:100%  > 60% - Major Adjustment With Penalty Adjustment factor of: 1.248679
+                   
+ 
+ ----------------------------
+| MODIFIED AI configuration 
+ ----------------------------
+ 
+            |  HEALTH  |  SPEED  |  ATTACK  |  ATTACKSPEED  |  ATTACKRANGE  |  WEBFREQUENCY  |  FIREBALL SPEED |    
+            |----------|---------|----------|---------------|---------------|----------------|-----------------| 
+  Skeleton  |     1    |    1    |     1    |       1       |       1       |       --       |       --        
+  RedMons   |     1    |    1    |     1    |       1       |       1       |       --       |        1        
+  GreenMons |     1    |    1    |     1    |       1       |      --       |       --       |        1        
+  Spider    |     1    |    1    |     1    |      --       |      --       |        1       |       --        
+ 
+ 
+ 
+ 
+    
+    
+ =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== ===========
+ ===========                                CURRENT   AI   REPORT   COUNT: 3   REPORT TYPE:  CHECKPOINT
+ ===========                                                        Statistics              
+ =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== ===========
+ 
+ 
+ -----------------------------------------------
+| GIVEN damage over time period of last stage
+ -----------------------------------------------
+
+            | ENEMIES      | ENEMIES      |  AVERAGE     |  TOTAL       | ENEMIES      | ENEMIES      | AVERAGE      | TOTAL        |
+            | HIT          | KILLED       |  DAMAGE      |  DAMAGE      | HIT(ALL)     | KILLED(ALL)  | DAMAGE(ALL)  | DAMAGE(ALL ) |
+            |--------------|--------------|--------------|--------------|--------------|--------------|--------------|--------------|    
+  Skeleton  |       0      |       0      |     NaN      |       0      |       0      |       0      |     NaN      |       0      |
+  RedMons   |       0      |       0      |     NaN      |       0      |       0      |       0      |     NaN      |       0      |
+  GreenMons |       0      |       0      |     NaN      |       0      |       0      |       0      |     NaN      |       0      |
+  Spider    |       0      |       0      |     NaN      |       0      |       0      |       0      |     NaN      |       0      |
+ 
+ --------------------------------------------------
+| RECEIVED damage over time period of last stage
+ --------------------------------------------------
+ 
+            | DAMAGE      | DAMAGE      | HEALTH     | 
+            | THIS ROUND  | OVERALL     | RECEIVED   |
+  Skeleton  |      0      |      0      |     --     |
+  RedMons   |      0      |      0      |     --     |
+  GreenMons |      0      |      0      |     --     |
+  Spider    |      0      |      0      |     --     |
+  TOTAL     |      0      |      0      |     --     |
+  Hearts    |     --      |     --      |      0     |
+ 
+ 
+ ----------------------------
+| PREVIOUS AI configuration 
+ ----------------------------
+ 
+            |  HEALTH  |  SPEED  |  ATTACK  |  ATTACKSPEED  |  ATTACKRANGE  |  WEBFREQUENCY  |  FIREBALL SPEED |    
+            |----------|---------|----------|---------------|---------------|----------------|-----------------| 
+  Skeleton  |     1    |    1    |     1    |       1       |       1       |       --       |       --        |
+  RedMons   |     1    |    1    |     1    |       1       |       1       |       --       |        1        |
+  GreenMons |     1    |    1    |     1    |       1       |      --       |       --       |        1        |
+  Spider    |     1    |    1    |     1    |      --       |      --       |        1       |       --        |
+
+ ---------------
+| MODIFICATIONS  
+ ---------------
+ 
+                   Completion Efficiency - Health left on Checkpoint:100%  > 60% - Major Adjustment With Penalty Adjustment factor of: 1.324724
+                   
+ 
+ ----------------------------
+| MODIFIED AI configuration 
+ ----------------------------
+ 
+            |  HEALTH  |  SPEED  |  ATTACK  |  ATTACKSPEED  |  ATTACKRANGE  |  WEBFREQUENCY  |  FIREBALL SPEED |    
+            |----------|---------|----------|---------------|---------------|----------------|-----------------| 
+  Skeleton  | 2119.    |146.0    | 298.0    |   1.324       |   0.847       |       --       |       --        
+  RedMons   | 4769.    |40.07    | 478.2    |   1.324       |   2.238       |       --       |    1.324        
+  GreenMons | 50372    |17.64    | 763.0    |   1.324       |      --       |       --       |    1.324        
+  Spider    | 3311.    |64.91    | 1.324    |      --       |      --       |        1       |       --        
+ 
+ 
+ 
+ 
+    
+    
+ =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== ===========
+ ===========                                CURRENT   AI   REPORT   COUNT: 4   REPORT TYPE:  CHECKPOINT
+ ===========                                                        Statistics              
+ =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== ===========
+ 
+ 
+ -----------------------------------------------
+| GIVEN damage over time period of last stage
+ -----------------------------------------------
+
+            | ENEMIES      | ENEMIES      |  AVERAGE     |  TOTAL       | ENEMIES      | ENEMIES      | AVERAGE      | TOTAL        |
+            | HIT          | KILLED       |  DAMAGE      |  DAMAGE      | HIT(ALL)     | KILLED(ALL)  | DAMAGE(ALL)  | DAMAGE(ALL ) |
+            |--------------|--------------|--------------|--------------|--------------|--------------|--------------|--------------|    
+  Skeleton  |       0      |       0      |     NaN      |       0      |       0      |       0      |     NaN      |       0      |
+  RedMons   |       0      |       0      |     NaN      |       0      |       0      |       0      |     NaN      |       0      |
+  GreenMons |       0      |       0      |     NaN      |       0      |       0      |       0      |     NaN      |       0      |
+  Spider    |       0      |       0      |     NaN      |       0      |       0      |       0      |     NaN      |       0      |
+ 
+ --------------------------------------------------
+| RECEIVED damage over time period of last stage
+ --------------------------------------------------
+ 
+            | DAMAGE      | DAMAGE      | HEALTH     | 
+            | THIS ROUND  | OVERALL     | RECEIVED   |
+  Skeleton  |      0      |      0      |     --     |
+  RedMons   |      0      |      0      |     --     |
+  GreenMons |      0      |      0      |     --     |
+  Spider    |      0      |      0      |     --     |
+  TOTAL     |      0      |      0      |     --     |
+  Hearts    |     --      |     --      |      0     |
+ 
+ 
+ ----------------------------
+| PREVIOUS AI configuration 
+ ----------------------------
+ 
+            |  HEALTH  |  SPEED  |  ATTACK  |  ATTACKSPEED  |  ATTACKRANGE  |  WEBFREQUENCY  |  FIREBALL SPEED |    
+            |----------|---------|----------|---------------|---------------|----------------|-----------------| 
+  Skeleton  | 2119.    |146.0    | 298.0    |   1.324       |   0.847       |       --       |       --        |
+  RedMons   | 4769.    |40.07    | 478.2    |   1.324       |   2.238       |       --       |    1.324        |
+  GreenMons | 50372    |17.64    | 763.0    |   1.324       |      --       |       --       |    1.324        |
+  Spider    | 3311.    |64.91    |     1    |      --       |      --       |    1.324       |       --        |
+
+ ---------------
+| MODIFICATIONS  
+ ---------------
+ 
+                   Completion Efficiency - Health left on Checkpoint:100%  > 60% - Major Adjustment With Penalty Adjustment factor of: 1.490988
+                   
+ 
+ ----------------------------
+| MODIFIED AI configuration 
+ ----------------------------
+ 
+            |  HEALTH  |  SPEED  |  ATTACK  |  ATTACKSPEED  |  ATTACKRANGE  |  WEBFREQUENCY  |  FIREBALL SPEED |    
+            |----------|---------|----------|---------------|---------------|----------------|-----------------| 
+  Skeleton  | 2385.    |164.3    | 335.4    |   1.490       |   0.954       |       --       |       --        
+  RedMons   | 5367.    |45.10    | 538.2    |   1.490       |   2.519       |       --       |    1.490        
+  GreenMons | 56694    |19.86    | 858.8    |   1.490       |      --       |       --       |    1.490        
+  Spider    | 3727.    |73.05    | 1.490    |      --       |      --       |        1       |       --        
+ 
+ 
+ 
+ 
+    
+    
+ =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== ===========
+ ===========                                CURRENT   AI   REPORT   COUNT: 5   REPORT TYPE:  CHECKPOINT
+ ===========                                                        Statistics              
+ =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== ===========
+ 
+ 
+ -----------------------------------------------
+| GIVEN damage over time period of last stage
+ -----------------------------------------------
+
+            | ENEMIES      | ENEMIES      |  AVERAGE     |  TOTAL       | ENEMIES      | ENEMIES      | AVERAGE      | TOTAL        |
+            | HIT          | KILLED       |  DAMAGE      |  DAMAGE      | HIT(ALL)     | KILLED(ALL)  | DAMAGE(ALL)  | DAMAGE(ALL ) |
+            |--------------|--------------|--------------|--------------|--------------|--------------|--------------|--------------|    
+  Skeleton  |       0      |       0      |     NaN      |       0      |       0      |       0      |     NaN      |       0      |
+  RedMons   |       0      |       0      |     NaN      |       0      |       0      |       0      |     NaN      |       0      |
+  GreenMons |       0      |       0      |     NaN      |       0      |       0      |       0      |     NaN      |       0      |
+  Spider    |       0      |       0      |     NaN      |       0      |       0      |       0      |     NaN      |       0      |
+ 
+ --------------------------------------------------
+| RECEIVED damage over time period of last stage
+ --------------------------------------------------
+ 
+            | DAMAGE      | DAMAGE      | HEALTH     | 
+            | THIS ROUND  | OVERALL     | RECEIVED   |
+  Skeleton  |      0      |      0      |     --     |
+  RedMons   |      0      |      0      |     --     |
+  GreenMons |      0      |      0      |     --     |
+  Spider    |      0      |      0      |     --     |
+  TOTAL     |      0      |      0      |     --     |
+  Hearts    |     --      |     --      |      0     |
+ 
+ 
+ ----------------------------
+| PREVIOUS AI configuration 
+ ----------------------------
+ 
+            |  HEALTH  |  SPEED  |  ATTACK  |  ATTACKSPEED  |  ATTACKRANGE  |  WEBFREQUENCY  |  FIREBALL SPEED |    
+            |----------|---------|----------|---------------|---------------|----------------|-----------------| 
+  Skeleton  | 2385.    |164.3    | 335.4    |   1.490       |   0.954       |       --       |       --        |
+  RedMons   | 5367.    |45.10    | 538.2    |   1.490       |   2.519       |       --       |    1.490        |
+  GreenMons | 56694    |19.86    | 858.8    |   1.490       |      --       |       --       |    1.490        |
+  Spider    | 3727.    |73.05    |     1    |      --       |      --       |    1.490       |       --        |
+
+ ---------------
+| MODIFICATIONS  
+ ---------------
+ 
+                   Completion Efficiency - Health left on Checkpoint:100%  > 60% - Major Adjustment With Penalty Adjustment factor of: 1.888739
+                   
+ 
+ ----------------------------
+| MODIFIED AI configuration 
+ ----------------------------
+ 
+            |  HEALTH  |  SPEED  |  ATTACK  |  ATTACKSPEED  |  ATTACKRANGE  |  WEBFREQUENCY  |  FIREBALL SPEED |    
+            |----------|---------|----------|---------------|---------------|----------------|-----------------| 
+  Skeleton  | 3021.    |208.2    | 424.9    |   1.888       |   1.208       |       --       |       --        
+  RedMons   | 6799.    |57.13    | 681.8    |   1.888       |   3.191       |       --       |    1.888        
+  GreenMons | 71819    |25.16    | 1087.    |   1.888       |      --       |       --       |    1.888        
+  Spider    | 4721.    |92.54    | 1.888    |      --       |      --       |        1       |       --        
+ 
+ 
+ 
+ 
+    
+    
+ =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== ===========
+ ===========                                CURRENT   AI   REPORT   COUNT: 6   REPORT TYPE:  DEATH
+ ===========                                                        Statistics              
+ =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== ===========
+ 
+ 
+ -----------------------------------------------
+| GIVEN damage over time period of last life
+ -----------------------------------------------
+
+            | ENEMIES      | ENEMIES      |  AVERAGE     |  TOTAL       | ENEMIES      | ENEMIES      | AVERAGE      | TOTAL        |
+            | HIT          | KILLED       |  DAMAGE      |  DAMAGE      | HIT(ALL)     | KILLED(ALL)  | DAMAGE(ALL)  | DAMAGE(ALL ) |
+            |--------------|--------------|--------------|--------------|--------------|--------------|--------------|--------------|    
+  Skeleton  |       0      |       0      |     NaN      |       0      |       0      |       0      |     NaN      |       0      |
+  RedMons   |       0      |       1      |     NaN      |       0      |       0      |       1      |     NaN      |       0      |
+  GreenMons |       0      |       0      |     NaN      |       0      |       0      |       0      |     NaN      |       0      |
+  Spider    |       0      |       0      |     NaN      |       0      |       0      |       0      |     NaN      |       0      |
+ 
+ --------------------------------------------------
+| RECEIVED damage over time period of last life
+ --------------------------------------------------
+ 
+            | DAMAGE      | DAMAGE      | HEALTH     | 
+            | THIS ROUND  | OVERALL     | RECEIVED   |
+  Skeleton  |  402.5      |  402.5      |     --     |
+  RedMons   |      0      |      0      |     --     |
+  GreenMons |      0      |      0      |     --     |
+  Spider    |      0      |      0      |     --     |
+  TOTAL     |  402.5      |  402.5      |     --     |
+  Hearts    |     --      |     --      |      0     |
+ 
+ 
+ ----------------------------
+| PREVIOUS AI configuration 
+ ----------------------------
+ 
+            |  HEALTH  |  SPEED  |  ATTACK  |  ATTACKSPEED  |  ATTACKRANGE  |  WEBFREQUENCY  |  FIREBALL SPEED |    
+            |----------|---------|----------|---------------|---------------|----------------|-----------------| 
+  Skeleton  |   260    |68.25    |  97.5    |     6.5       |   1.208       |       --       |       --        |
+  RedMons   |     0    |    0    |     0    |       0       |   3.191       |       --       |    1.888        |
+  GreenMons |     0    |    0    |     0    |       0       |      --       |       --       |    1.888        |
+  Spider    |     0    |    0    |     1    |      --       |      --       |        0       |       --        |
+
+ ---------------
+| MODIFICATIONS  
+ ---------------
+ 
+                   Death after checkpoint, very minor adjustment on skeleton required: 0.95 Overall adjustment: 0.96f
+                   
+ 
+ ----------------------------
+| MODIFIED AI configuration 
+ ----------------------------
+ 
+            |  HEALTH  |  SPEED  |  ATTACK  |  ATTACKSPEED  |  ATTACKRANGE  |  WEBFREQUENCY  |  FIREBALL SPEED |    
+            |----------|---------|----------|---------------|---------------|----------------|-----------------| 
+  Skeleton  |  1552    |105.8    |   216    |    0.96       |   0.614       |       --       |       --        
+  RedMons   |  3456    |29.04    | 346.5    |    0.96       |   1.622       |       --       |     0.96        
+  GreenMons | 36504    |12.78    | 552.9    |    0.96       |      --       |       --       |     0.96        
+  Spider    |  2400    |47.04    |  0.96    |      --       |      --       |        1       |       --        
+ 
+ 
+ 
+ 
+    
+    
+ =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== ===========
+ ===========                                CURRENT   AI   REPORT   COUNT: 7   REPORT TYPE:  CHECKPOINT
+ ===========                                                        Statistics              
+ =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== ===========
+ 
+ 
+ -----------------------------------------------
+| GIVEN damage over time period of last stage
+ -----------------------------------------------
+
+            | ENEMIES      | ENEMIES      |  AVERAGE     |  TOTAL       | ENEMIES      | ENEMIES      | AVERAGE      | TOTAL        |
+            | HIT          | KILLED       |  DAMAGE      |  DAMAGE      | HIT(ALL)     | KILLED(ALL)  | DAMAGE(ALL)  | DAMAGE(ALL ) |
+            |--------------|--------------|--------------|--------------|--------------|--------------|--------------|--------------|    
+  Skeleton  |       0      |       0      |     NaN      |       0      |       0      |       0      |     NaN      |       0      |
+  RedMons   |       0      |       0      |     NaN      |       0      |       0      |       1      |     NaN      |       0      |
+  GreenMons |       0      |       0      |     NaN      |       0      |       0      |       0      |     NaN      |       0      |
+  Spider    |       0      |       0      |     NaN      |       0      |       0      |       0      |     NaN      |       0      |
+ 
+ --------------------------------------------------
+| RECEIVED damage over time period of last stage
+ --------------------------------------------------
+ 
+            | DAMAGE      | DAMAGE      | HEALTH     | 
+            | THIS ROUND  | OVERALL     | RECEIVED   |
+  Skeleton  |      0      |  402.5      |     --     |
+  RedMons   |      0      |      0      |     --     |
+  GreenMons |      0      |      0      |     --     |
+  Spider    |      0      |      0      |     --     |
+  TOTAL     |      0      |  402.5      |     --     |
+  Hearts    |     --      |     --      |      0     |
+ 
+ 
+ ----------------------------
+| PREVIOUS AI configuration 
+ ----------------------------
+ 
+            |  HEALTH  |  SPEED  |  ATTACK  |  ATTACKSPEED  |  ATTACKRANGE  |  WEBFREQUENCY  |  FIREBALL SPEED |    
+            |----------|---------|----------|---------------|---------------|----------------|-----------------| 
+  Skeleton  |   260    |68.25    |  97.5    |     6.5       |   0.614       |       --       |       --        |
+  RedMons   |  1980    |16.63    | 198.5    |    0.55       |   1.622       |       --       |     0.96        |
+  GreenMons | 20913    |7.327    | 316.8    |    0.55       |      --       |       --       |     0.96        |
+  Spider    |  1375    |    0    |     1    |      --       |      --       |     0.55       |       --        |
+
+ ---------------
+| MODIFICATIONS  
+ ---------------
+ 
+                   Completion Efficiency - Health left on Checkpoint:100%  > 60% - Moderate Adjustment: 1.156381
+                   
+ 
+ ----------------------------
+| MODIFIED AI configuration 
+ ----------------------------
+ 
+            |  HEALTH  |  SPEED  |  ATTACK  |  ATTACKSPEED  |  ATTACKRANGE  |  WEBFREQUENCY  |  FIREBALL SPEED |    
+            |----------|---------|----------|---------------|---------------|----------------|-----------------| 
+  Skeleton  |   260    |68.25    |  97.5    |     6.5       |   0.614       |       --       |       --        
+  RedMons   |  1980    |16.63    | 198.5    |    0.55       |   1.622       |       --       |     0.96        
+  GreenMons | 20913    |7.327    | 316.8    |    0.55       |      --       |       --       |     0.96        
+  Spider    |  1375    |    0    |  0.55    |      --       |      --       |        1       |       --        
+ 
+ 
+ 
+ 
+    
+    
+ =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== ===========
+ ===========                                CURRENT   AI   REPORT   COUNT: 8   REPORT TYPE:  CHECKPOINT
+ ===========                                                        Statistics              
+ =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== ===========
+ 
+ 
+ -----------------------------------------------
+| GIVEN damage over time period of last stage
+ -----------------------------------------------
+
+            | ENEMIES      | ENEMIES      |  AVERAGE     |  TOTAL       | ENEMIES      | ENEMIES      | AVERAGE      | TOTAL        |
+            | HIT          | KILLED       |  DAMAGE      |  DAMAGE      | HIT(ALL)     | KILLED(ALL)  | DAMAGE(ALL)  | DAMAGE(ALL ) |
+            |--------------|--------------|--------------|--------------|--------------|--------------|--------------|--------------|    
+  Skeleton  |       0      |       0      |     NaN      |       0      |       0      |       0      |     NaN      |       0      |
+  RedMons   |       0      |       0      |     NaN      |       0      |       0      |       1      |     NaN      |       0      |
+  GreenMons |       0      |       0      |     NaN      |       0      |       0      |       0      |     NaN      |       0      |
+  Spider    |       0      |       0      |     NaN      |       0      |       0      |       0      |     NaN      |       0      |
+ 
+ --------------------------------------------------
+| RECEIVED damage over time period of last stage
+ --------------------------------------------------
+ 
+            | DAMAGE      | DAMAGE      | HEALTH     | 
+            | THIS ROUND  | OVERALL     | RECEIVED   |
+  Skeleton  |      0      |  402.5      |     --     |
+  RedMons   |      0      |      0      |     --     |
+  GreenMons |      0      |      0      |     --     |
+  Spider    |      0      |      0      |     --     |
+  TOTAL     |      0      |  402.5      |     --     |
+  Hearts    |     --      |     --      |      0     |
+ 
+ 
+ ----------------------------
+| PREVIOUS AI configuration 
+ ----------------------------
+ 
+            |  HEALTH  |  SPEED  |  ATTACK  |  ATTACKSPEED  |  ATTACKRANGE  |  WEBFREQUENCY  |  FIREBALL SPEED |    
+            |----------|---------|----------|---------------|---------------|----------------|-----------------| 
+  Skeleton  |   260    |68.25    |  97.5    |     6.5       |   0.614       |       --       |       --        |
+  RedMons   |  1980    |16.63    | 198.5    |    0.55       |   1.622       |       --       |     0.96        |
+  GreenMons | 20913    |7.327    | 316.8    |    0.55       |      --       |       --       |     0.96        |
+  Spider    |  1375    |    0    |     1    |      --       |      --       |     0.55       |       --        |
+
+ ---------------
+| MODIFICATIONS  
+ ---------------
+ 
+                   Completion Efficiency - Health left on Checkpoint:100%  > 60% - Major Adjustment With Penalty Adjustment factor of: 1.248679
+                   
+ 
+ ----------------------------
+| MODIFIED AI configuration 
+ ----------------------------
+ 
+            |  HEALTH  |  SPEED  |  ATTACK  |  ATTACKSPEED  |  ATTACKRANGE  |  WEBFREQUENCY  |  FIREBALL SPEED |    
+            |----------|---------|----------|---------------|---------------|----------------|-----------------| 
+  Skeleton  |   260    |68.25    |  97.5    |     6.5       |   0.614       |       --       |       --        
+  RedMons   |  1980    |16.63    | 198.5    |    0.55       |   1.622       |       --       |     0.96        
+  GreenMons | 20913    |7.327    | 316.8    |    0.55       |      --       |       --       |     0.96        
+  Spider    |  1375    |    0    |  0.55    |      --       |      --       |        1       |       --        
+ 
+ 
+ 
+ 
+    
+    
+ =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== ===========
+ ===========                                CURRENT   AI   REPORT   COUNT: 9   REPORT TYPE:  CHECKPOINT
+ ===========                                                        Statistics              
+ =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== ===========
+ 
+ 
+ -----------------------------------------------
+| GIVEN damage over time period of last stage
+ -----------------------------------------------
+
+            | ENEMIES      | ENEMIES      |  AVERAGE     |  TOTAL       | ENEMIES      | ENEMIES      | AVERAGE      | TOTAL        |
+            | HIT          | KILLED       |  DAMAGE      |  DAMAGE      | HIT(ALL)     | KILLED(ALL)  | DAMAGE(ALL)  | DAMAGE(ALL ) |
+            |--------------|--------------|--------------|--------------|--------------|--------------|--------------|--------------|    
+  Skeleton  |       0      |       0      |     NaN      |       0      |       0      |       0      |     NaN      |       0      |
+  RedMons   |       0      |       0      |     NaN      |       0      |       0      |       1      |     NaN      |       0      |
+  GreenMons |       0      |       0      |     NaN      |       0      |       0      |       0      |     NaN      |       0      |
+  Spider    |       0      |       0      |     NaN      |       0      |       0      |       0      |     NaN      |       0      |
+ 
+ --------------------------------------------------
+| RECEIVED damage over time period of last stage
+ --------------------------------------------------
+ 
+            | DAMAGE      | DAMAGE      | HEALTH     | 
+            | THIS ROUND  | OVERALL     | RECEIVED   |
+  Skeleton  |      0      |  402.5      |     --     |
+  RedMons   |      0      |      0      |     --     |
+  GreenMons |      0      |      0      |     --     |
+  Spider    |      0      |      0      |     --     |
+  TOTAL     |      0      |  402.5      |     --     |
+  Hearts    |     --      |     --      |      0     |
+ 
+ 
+ ----------------------------
+| PREVIOUS AI configuration 
+ ----------------------------
+ 
+            |  HEALTH  |  SPEED  |  ATTACK  |  ATTACKSPEED  |  ATTACKRANGE  |  WEBFREQUENCY  |  FIREBALL SPEED |    
+            |----------|---------|----------|---------------|---------------|----------------|-----------------| 
+  Skeleton  |   260    |68.25    |  97.5    |     6.5       |   0.614       |       --       |       --        |
+  RedMons   |  1980    |16.63    | 198.5    |    0.55       |   1.622       |       --       |     0.96        |
+  GreenMons | 20913    |7.327    | 316.8    |    0.55       |      --       |       --       |     0.96        |
+  Spider    |  1375    |    0    |     1    |      --       |      --       |     0.55       |       --        |
+
+ ---------------
+| MODIFICATIONS  
+ ---------------
+ 
+                   Completion Efficiency - Health left on Checkpoint:100%  > 60% - Major Adjustment With Penalty Adjustment factor of: 1.324724
+                   
+ 
+ ----------------------------
+| MODIFIED AI configuration 
+ ----------------------------
+ 
+            |  HEALTH  |  SPEED  |  ATTACK  |  ATTACKSPEED  |  ATTACKRANGE  |  WEBFREQUENCY  |  FIREBALL SPEED |    
+            |----------|---------|----------|---------------|---------------|----------------|-----------------| 
+  Skeleton  | 2119.    |146.0    | 298.0    |   1.324       |   0.847       |       --       |       --        
+  RedMons   | 4769.    |40.07    | 478.2    |   1.324       |   2.238       |       --       |    1.324        
+  GreenMons | 50372    |17.64    | 763.0    |   1.324       |      --       |       --       |    1.324        
+  Spider    | 3311.    |64.91    | 1.324    |      --       |      --       |        1       |       --        
+ 
+ 
+ 
+ 
+    
+    
+ =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== ===========
+ ===========                                CURRENT   AI   REPORT   COUNT: 10   REPORT TYPE:  CHECKPOINT
+ ===========                                                        Statistics              
+ =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== ===========
+ 
+ 
+ -----------------------------------------------
+| GIVEN damage over time period of last stage
+ -----------------------------------------------
+
+            | ENEMIES      | ENEMIES      |  AVERAGE     |  TOTAL       | ENEMIES      | ENEMIES      | AVERAGE      | TOTAL        |
+            | HIT          | KILLED       |  DAMAGE      |  DAMAGE      | HIT(ALL)     | KILLED(ALL)  | DAMAGE(ALL)  | DAMAGE(ALL ) |
+            |--------------|--------------|--------------|--------------|--------------|--------------|--------------|--------------|    
+  Skeleton  |       0      |       0      |     NaN      |       0      |       0      |       0      |     NaN      |       0      |
+  RedMons   |       0      |       0      |     NaN      |       0      |       0      |       1      |     NaN      |       0      |
+  GreenMons |       0      |       0      |     NaN      |       0      |       0      |       0      |     NaN      |       0      |
+  Spider    |       0      |       0      |     NaN      |       0      |       0      |       0      |     NaN      |       0      |
+ 
+ --------------------------------------------------
+| RECEIVED damage over time period of last stage
+ --------------------------------------------------
+ 
+            | DAMAGE      | DAMAGE      | HEALTH     | 
+            | THIS ROUND  | OVERALL     | RECEIVED   |
+  Skeleton  |      0      |  402.5      |     --     |
+  RedMons   |      0      |      0      |     --     |
+  GreenMons |      0      |      0      |     --     |
+  Spider    |      0      |      0      |     --     |
+  TOTAL     |      0      |  402.5      |     --     |
+  Hearts    |     --      |     --      |      0     |
+ 
+ 
+ ----------------------------
+| PREVIOUS AI configuration 
+ ----------------------------
+ 
+            |  HEALTH  |  SPEED  |  ATTACK  |  ATTACKSPEED  |  ATTACKRANGE  |  WEBFREQUENCY  |  FIREBALL SPEED |    
+            |----------|---------|----------|---------------|---------------|----------------|-----------------| 
+  Skeleton  | 2119.    |146.0    | 298.0    |   1.324       |   0.847       |       --       |       --        |
+  RedMons   | 4769.    |40.07    | 478.2    |   1.324       |   2.238       |       --       |    1.324        |
+  GreenMons | 50372    |17.64    | 763.0    |   1.324       |      --       |       --       |    1.324        |
+  Spider    | 3311.    |64.91    |     1    |      --       |      --       |    1.324       |       --        |
+
+ ---------------
+| MODIFICATIONS  
+ ---------------
+ 
+                   Completion Efficiency - Health left on Checkpoint:100%  > 60% - Major Adjustment With Penalty Adjustment factor of: 1.490988
+                   
+ 
+ ----------------------------
+| MODIFIED AI configuration 
+ ----------------------------
+ 
+            |  HEALTH  |  SPEED  |  ATTACK  |  ATTACKSPEED  |  ATTACKRANGE  |  WEBFREQUENCY  |  FIREBALL SPEED |    
+            |----------|---------|----------|---------------|---------------|----------------|-----------------| 
+  Skeleton  | 2385.    |164.3    | 335.4    |   1.490       |   0.954       |       --       |       --        
+  RedMons   | 5367.    |45.10    | 538.2    |   1.490       |   2.519       |       --       |    1.490        
+  GreenMons | 56694    |19.86    | 858.8    |   1.490       |      --       |       --       |    1.490        
+  Spider    | 3727.    |73.05    | 1.490    |      --       |      --       |        1       |       --        
+ 
+ 
+ 
+ 
+    
+    
+ =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== ===========
+ ===========                                CURRENT   AI   REPORT   COUNT: 11   REPORT TYPE:  CHECKPOINT
+ ===========                                                        Statistics              
+ =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== ===========
+ 
+ 
+ -----------------------------------------------
+| GIVEN damage over time period of last stage
+ -----------------------------------------------
+
+            | ENEMIES      | ENEMIES      |  AVERAGE     |  TOTAL       | ENEMIES      | ENEMIES      | AVERAGE      | TOTAL        |
+            | HIT          | KILLED       |  DAMAGE      |  DAMAGE      | HIT(ALL)     | KILLED(ALL)  | DAMAGE(ALL)  | DAMAGE(ALL ) |
+            |--------------|--------------|--------------|--------------|--------------|--------------|--------------|--------------|    
+  Skeleton  |       0      |       0      |     NaN      |       0      |       0      |       0      |     NaN      |       0      |
+  RedMons   |       0      |       0      |     NaN      |       0      |       0      |       1      |     NaN      |       0      |
+  GreenMons |       0      |       0      |     NaN      |       0      |       0      |       0      |     NaN      |       0      |
+  Spider    |       0      |       0      |     NaN      |       0      |       0      |       0      |     NaN      |       0      |
+ 
+ --------------------------------------------------
+| RECEIVED damage over time period of last stage
+ --------------------------------------------------
+ 
+            | DAMAGE      | DAMAGE      | HEALTH     | 
+            | THIS ROUND  | OVERALL     | RECEIVED   |
+  Skeleton  |      0      |  402.5      |     --     |
+  RedMons   |      0      |      0      |     --     |
+  GreenMons |      0      |      0      |     --     |
+  Spider    |      0      |      0      |     --     |
+  TOTAL     |      0      |  402.5      |     --     |
+  Hearts    |     --      |     --      |      0     |
+ 
+ 
+ ----------------------------
+| PREVIOUS AI configuration 
+ ----------------------------
+ 
+            |  HEALTH  |  SPEED  |  ATTACK  |  ATTACKSPEED  |  ATTACKRANGE  |  WEBFREQUENCY  |  FIREBALL SPEED |    
+            |----------|---------|----------|---------------|---------------|----------------|-----------------| 
+  Skeleton  | 2385.    |164.3    | 335.4    |   1.490       |   0.954       |       --       |       --        |
+  RedMons   | 5367.    |45.10    | 538.2    |   1.490       |   2.519       |       --       |    1.490        |
+  GreenMons | 56694    |19.86    | 858.8    |   1.490       |      --       |       --       |    1.490        |
+  Spider    | 3727.    |73.05    |     1    |      --       |      --       |    1.490       |       --        |
+
+ ---------------
+| MODIFICATIONS  
+ ---------------
+ 
+                   Completion Efficiency - Health left on Checkpoint:100%  > 60% - Major Adjustment With Penalty Adjustment factor of: 1.888739
+                   
+ 
+ ----------------------------
+| MODIFIED AI configuration 
+ ----------------------------
+ 
+            |  HEALTH  |  SPEED  |  ATTACK  |  ATTACKSPEED  |  ATTACKRANGE  |  WEBFREQUENCY  |  FIREBALL SPEED |    
+            |----------|---------|----------|---------------|---------------|----------------|-----------------| 
+  Skeleton  | 3021.    |208.2    | 424.9    |   1.888       |   1.208       |       --       |       --        
+  RedMons   | 6799.    |57.13    | 681.8    |   1.888       |   3.191       |       --       |    1.888        
+  GreenMons | 71819    |25.16    | 1087.    |   1.888       |      --       |       --       |    1.888        
+  Spider    | 4721.    |92.54    | 1.888    |      --       |      --       |        1       |       --        
+ 
+ 
+ 
+ 
+    
+    
+ =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== ===========
+ ===========                                CURRENT   AI   REPORT   COUNT: 12   REPORT TYPE:  DEATH
+ ===========                                                        Statistics              
+ =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== ===========
+ 
+ 
+ -----------------------------------------------
+| GIVEN damage over time period of last life
+ -----------------------------------------------
+
+            | ENEMIES      | ENEMIES      |  AVERAGE     |  TOTAL       | ENEMIES      | ENEMIES      | AVERAGE      | TOTAL        |
+            | HIT          | KILLED       |  DAMAGE      |  DAMAGE      | HIT(ALL)     | KILLED(ALL)  | DAMAGE(ALL)  | DAMAGE(ALL ) |
+            |--------------|--------------|--------------|--------------|--------------|--------------|--------------|--------------|    
+  Skeleton  |      12      |       0      |   32.43      |   389.2      |      12      |       0      |   32.43      |   389.2      |
+  RedMons   |       0      |       1      |     NaN      |       0      |       0      |       2      |     NaN      |       0      |
+  GreenMons |       0      |       0      |     NaN      |       0      |       0      |       0      |     NaN      |       0      |
+  Spider    |       0      |       0      |     NaN      |       0      |       0      |       0      |     NaN      |       0      |
+ 
+ --------------------------------------------------
+| RECEIVED damage over time period of last life
+ --------------------------------------------------
+ 
+            | DAMAGE      | DAMAGE      | HEALTH     | 
+            | THIS ROUND  | OVERALL     | RECEIVED   |
+  Skeleton  |  402.5      |    805      |     --     |
+  RedMons   |      0      |      0      |     --     |
+  GreenMons |      0      |      0      |     --     |
+  Spider    |      0      |      0      |     --     |
+  TOTAL     |  402.5      |    805      |     --     |
+  Hearts    |     --      |     --      |      0     |
+ 
+ 
+ ----------------------------
+| PREVIOUS AI configuration 
+ ----------------------------
+ 
+            |  HEALTH  |  SPEED  |  ATTACK  |  ATTACKSPEED  |  ATTACKRANGE  |  WEBFREQUENCY  |  FIREBALL SPEED |    
+            |----------|---------|----------|---------------|---------------|----------------|-----------------| 
+  Skeleton  | 3021.    |208.2    | 424.9    |   1.888       |   1.208       |       --       |       --        |
+  RedMons   | 6799.    |57.13    | 681.8    |   1.888       |   3.191       |       --       |    1.888        |
+  GreenMons | 71819    |25.16    | 1087.    |   1.888       |      --       |       --       |    1.888        |
+  Spider    | 4721.    |92.54    |     1    |      --       |      --       |    1.888       |       --        |
+
+ ---------------
+| MODIFICATIONS  
+ ---------------
+ 
+                   Death after checkpoint, very minor adjustment on skeleton required: 0.95 Overall adjustment: 0.96f
+                   
+ 
+ ----------------------------
+| MODIFIED AI configuration 
+ ----------------------------
+ 
+            |  HEALTH  |  SPEED  |  ATTACK  |  ATTACKSPEED  |  ATTACKRANGE  |  WEBFREQUENCY  |  FIREBALL SPEED |    
+            |----------|---------|----------|---------------|---------------|----------------|-----------------| 
+  Skeleton  |  1536    |106.9    |   216    |    0.96       |   0.614       |       --       |       --        
+  RedMons   |  3456    |29.04    | 346.5    |    0.96       |   1.622       |       --       |     0.96        
+  GreenMons | 36504    |12.78    | 552.9    |    0.96       |      --       |       --       |     0.96        
+  Spider    |  2400    |47.04    |  0.96    |      --       |      --       |        1       |       --        
+ 
+ 
+ 
+ 
+    
+    
+ =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== ===========
+ ===========                                CURRENT   AI   REPORT   COUNT: 13   REPORT TYPE:  CHECKPOINT
+ ===========                                                        Statistics              
+ =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== ===========
+ 
+ 
+ -----------------------------------------------
+| GIVEN damage over time period of last stage
+ -----------------------------------------------
+
+            | ENEMIES      | ENEMIES      |  AVERAGE     |  TOTAL       | ENEMIES      | ENEMIES      | AVERAGE      | TOTAL        |
+            | HIT          | KILLED       |  DAMAGE      |  DAMAGE      | HIT(ALL)     | KILLED(ALL)  | DAMAGE(ALL)  | DAMAGE(ALL ) |
+            |--------------|--------------|--------------|--------------|--------------|--------------|--------------|--------------|    
+  Skeleton  |       0      |       0      |     NaN      |       0      |      12      |       0      |   32.43      |   389.2      |
+  RedMons   |       0      |       0      |     NaN      |       0      |       0      |       2      |     NaN      |       0      |
+  GreenMons |       0      |       0      |     NaN      |       0      |       0      |       0      |     NaN      |       0      |
+  Spider    |       0      |       0      |     NaN      |       0      |       0      |       0      |     NaN      |       0      |
+ 
+ --------------------------------------------------
+| RECEIVED damage over time period of last stage
+ --------------------------------------------------
+ 
+            | DAMAGE      | DAMAGE      | HEALTH     | 
+            | THIS ROUND  | OVERALL     | RECEIVED   |
+  Skeleton  |      0      |    805      |     --     |
+  RedMons   |      0      |      0      |     --     |
+  GreenMons |      0      |      0      |     --     |
+  Spider    |      0      |      0      |     --     |
+  TOTAL     |      0      |    805      |     --     |
+  Hearts    |     --      |     --      |      0     |
+ 
+ 
+ ----------------------------
+| PREVIOUS AI configuration 
+ ----------------------------
+ 
+            |  HEALTH  |  SPEED  |  ATTACK  |  ATTACKSPEED  |  ATTACKRANGE  |  WEBFREQUENCY  |  FIREBALL SPEED |    
+            |----------|---------|----------|---------------|---------------|----------------|-----------------| 
+  Skeleton  |  1536    |106.9    |   216    |    0.96       |   0.614       |       --       |       --        |
+  RedMons   |  3456    |29.04    | 346.5    |    0.96       |   1.622       |       --       |     0.96        |
+  GreenMons | 36504    |12.78    | 552.9    |    0.96       |      --       |       --       |     0.96        |
+  Spider    |  2400    |47.04    |     1    |      --       |      --       |     0.96       |       --        |
+
+ ---------------
+| MODIFICATIONS  
+ ---------------
+ 
+                   Completion Efficiency - Health left on Checkpoint:100%  > 60% - Moderate Adjustment: 1.156381
+                   
+ 
+ ----------------------------
+| MODIFIED AI configuration 
+ ----------------------------
+ 
+            |  HEALTH  |  SPEED  |  ATTACK  |  ATTACKSPEED  |  ATTACKRANGE  |  WEBFREQUENCY  |  FIREBALL SPEED |    
+            |----------|---------|----------|---------------|---------------|----------------|-----------------| 
+  Skeleton  |  1536    |106.9    |   216    |    0.96       |   0.614       |       --       |       --        
+  RedMons   |  3456    |29.04    | 346.5    |    0.96       |   1.622       |       --       |     0.96        
+  GreenMons | 36504    |12.78    | 552.9    |    0.96       |      --       |       --       |     0.96        
+  Spider    |  2400    |47.04    |  0.96    |      --       |      --       |        1       |       --        
+ 
+ 
+ 
+ 
+    
+    
+ =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== ===========
+ ===========                                CURRENT   AI   REPORT   COUNT: 14   REPORT TYPE:  CHECKPOINT
+ ===========                                                        Statistics              
+ =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== ===========
+ 
+ 
+ -----------------------------------------------
+| GIVEN damage over time period of last stage
+ -----------------------------------------------
+
+            | ENEMIES      | ENEMIES      |  AVERAGE     |  TOTAL       | ENEMIES      | ENEMIES      | AVERAGE      | TOTAL        |
+            | HIT          | KILLED       |  DAMAGE      |  DAMAGE      | HIT(ALL)     | KILLED(ALL)  | DAMAGE(ALL)  | DAMAGE(ALL ) |
+            |--------------|--------------|--------------|--------------|--------------|--------------|--------------|--------------|    
+  Skeleton  |       0      |       0      |     NaN      |       0      |      12      |       0      |   32.43      |   389.2      |
+  RedMons   |       0      |       0      |     NaN      |       0      |       0      |       2      |     NaN      |       0      |
+  GreenMons |       0      |       0      |     NaN      |       0      |       0      |       0      |     NaN      |       0      |
+  Spider    |       0      |       0      |     NaN      |       0      |       0      |       0      |     NaN      |       0      |
+ 
+ --------------------------------------------------
+| RECEIVED damage over time period of last stage
+ --------------------------------------------------
+ 
+            | DAMAGE      | DAMAGE      | HEALTH     | 
+            | THIS ROUND  | OVERALL     | RECEIVED   |
+  Skeleton  |      0      |    805      |     --     |
+  RedMons   |      0      |      0      |     --     |
+  GreenMons |      0      |      0      |     --     |
+  Spider    |      0      |      0      |     --     |
+  TOTAL     |      0      |    805      |     --     |
+  Hearts    |     --      |     --      |      0     |
+ 
+ 
+ ----------------------------
+| PREVIOUS AI configuration 
+ ----------------------------
+ 
+            |  HEALTH  |  SPEED  |  ATTACK  |  ATTACKSPEED  |  ATTACKRANGE  |  WEBFREQUENCY  |  FIREBALL SPEED |    
+            |----------|---------|----------|---------------|---------------|----------------|-----------------| 
+  Skeleton  |  1536    |106.9    |   216    |    0.96       |   0.614       |       --       |       --        |
+  RedMons   |  3456    |29.04    | 346.5    |    0.96       |   1.622       |       --       |     0.96        |
+  GreenMons | 36504    |12.78    | 552.9    |    0.96       |      --       |       --       |     0.96        |
+  Spider    |  2400    |47.04    |     1    |      --       |      --       |     0.96       |       --        |
+
+ ---------------
+| MODIFICATIONS  
+ ---------------
+ 
+                   Completion Efficiency - Health left on Checkpoint:100%  > 60% - Major Adjustment With Penalty Adjustment factor of: 1.248679
+                   
+ 
+ ----------------------------
+| MODIFIED AI configuration 
+ ----------------------------
+ 
+            |  HEALTH  |  SPEED  |  ATTACK  |  ATTACKSPEED  |  ATTACKRANGE  |  WEBFREQUENCY  |  FIREBALL SPEED |    
+            |----------|---------|----------|---------------|---------------|----------------|-----------------| 
+  Skeleton  |  1536    |106.9    |   216    |    0.96       |   0.614       |       --       |       --        
+  RedMons   |  3456    |29.04    | 346.5    |    0.96       |   1.622       |       --       |     0.96        
+  GreenMons | 36504    |12.78    | 552.9    |    0.96       |      --       |       --       |     0.96        
+  Spider    |  2400    |47.04    |  0.96    |      --       |      --       |        1       |       --        
+ 
+ 
+ 
+ 
+    
+    
+ =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== ===========
+ ===========                                CURRENT   AI   REPORT   COUNT: 15   REPORT TYPE:  CHECKPOINT
+ ===========                                                        Statistics              
+ =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== ===========
+ 
+ 
+ -----------------------------------------------
+| GIVEN damage over time period of last stage
+ -----------------------------------------------
+
+            | ENEMIES      | ENEMIES      |  AVERAGE     |  TOTAL       | ENEMIES      | ENEMIES      | AVERAGE      | TOTAL        |
+            | HIT          | KILLED       |  DAMAGE      |  DAMAGE      | HIT(ALL)     | KILLED(ALL)  | DAMAGE(ALL)  | DAMAGE(ALL ) |
+            |--------------|--------------|--------------|--------------|--------------|--------------|--------------|--------------|    
+  Skeleton  |       0      |       0      |     NaN      |       0      |      12      |       0      |   32.43      |   389.2      |
+  RedMons   |       0      |       0      |     NaN      |       0      |       0      |       2      |     NaN      |       0      |
+  GreenMons |       0      |       0      |     NaN      |       0      |       0      |       0      |     NaN      |       0      |
+  Spider    |       0      |       0      |     NaN      |       0      |       0      |       0      |     NaN      |       0      |
+ 
+ --------------------------------------------------
+| RECEIVED damage over time period of last stage
+ --------------------------------------------------
+ 
+            | DAMAGE      | DAMAGE      | HEALTH     | 
+            | THIS ROUND  | OVERALL     | RECEIVED   |
+  Skeleton  |      0      |    805      |     --     |
+  RedMons   |      0      |      0      |     --     |
+  GreenMons |      0      |      0      |     --     |
+  Spider    |      0      |      0      |     --     |
+  TOTAL     |      0      |    805      |     --     |
+  Hearts    |     --      |     --      |      0     |
+ 
+ 
+ ----------------------------
+| PREVIOUS AI configuration 
+ ----------------------------
+ 
+            |  HEALTH  |  SPEED  |  ATTACK  |  ATTACKSPEED  |  ATTACKRANGE  |  WEBFREQUENCY  |  FIREBALL SPEED |    
+            |----------|---------|----------|---------------|---------------|----------------|-----------------| 
+  Skeleton  |  1536    |106.9    |   216    |    0.96       |   0.614       |       --       |       --        |
+  RedMons   |  3456    |29.04    | 346.5    |    0.96       |   1.622       |       --       |     0.96        |
+  GreenMons | 36504    |12.78    | 552.9    |    0.96       |      --       |       --       |     0.96        |
+  Spider    |  2400    |47.04    |     1    |      --       |      --       |     0.96       |       --        |
+
+ ---------------
+| MODIFICATIONS  
+ ---------------
+ 
+                   Completion Efficiency - Health left on Checkpoint:100%  > 60% - Major Adjustment With Penalty Adjustment factor of: 1.324724
+                   
+ 
+ ----------------------------
+| MODIFIED AI configuration 
+ ----------------------------
+ 
+            |  HEALTH  |  SPEED  |  ATTACK  |  ATTACKSPEED  |  ATTACKRANGE  |  WEBFREQUENCY  |  FIREBALL SPEED |    
+            |----------|---------|----------|---------------|---------------|----------------|-----------------| 
+  Skeleton  | 2119.    |146.0    | 298.0    |   1.324       |   0.847       |       --       |       --        
+  RedMons   | 4769.    |40.07    | 478.2    |   1.324       |   2.238       |       --       |    1.324        
+  GreenMons | 50372    |17.64    | 763.0    |   1.324       |      --       |       --       |    1.324        
+  Spider    | 3311.    |64.91    | 1.324    |      --       |      --       |        1       |       --        
+ 
+ 
+ 
+ 
+    
+    
+ =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== ===========
+ ===========                                CURRENT   AI   REPORT   COUNT: 16   REPORT TYPE:  CHECKPOINT
+ ===========                                                        Statistics              
+ =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== ===========
+ 
+ 
+ -----------------------------------------------
+| GIVEN damage over time period of last stage
+ -----------------------------------------------
+
+            | ENEMIES      | ENEMIES      |  AVERAGE     |  TOTAL       | ENEMIES      | ENEMIES      | AVERAGE      | TOTAL        |
+            | HIT          | KILLED       |  DAMAGE      |  DAMAGE      | HIT(ALL)     | KILLED(ALL)  | DAMAGE(ALL)  | DAMAGE(ALL ) |
+            |--------------|--------------|--------------|--------------|--------------|--------------|--------------|--------------|    
+  Skeleton  |       0      |       0      |     NaN      |       0      |      12      |       0      |   32.43      |   389.2      |
+  RedMons   |       0      |       0      |     NaN      |       0      |       0      |       2      |     NaN      |       0      |
+  GreenMons |       0      |       0      |     NaN      |       0      |       0      |       0      |     NaN      |       0      |
+  Spider    |       0      |       0      |     NaN      |       0      |       0      |       0      |     NaN      |       0      |
+ 
+ --------------------------------------------------
+| RECEIVED damage over time period of last stage
+ --------------------------------------------------
+ 
+            | DAMAGE      | DAMAGE      | HEALTH     | 
+            | THIS ROUND  | OVERALL     | RECEIVED   |
+  Skeleton  |      0      |    805      |     --     |
+  RedMons   |      0      |      0      |     --     |
+  GreenMons |      0      |      0      |     --     |
+  Spider    |      0      |      0      |     --     |
+  TOTAL     |      0      |    805      |     --     |
+  Hearts    |     --      |     --      |      0     |
+ 
+ 
+ ----------------------------
+| PREVIOUS AI configuration 
+ ----------------------------
+ 
+            |  HEALTH  |  SPEED  |  ATTACK  |  ATTACKSPEED  |  ATTACKRANGE  |  WEBFREQUENCY  |  FIREBALL SPEED |    
+            |----------|---------|----------|---------------|---------------|----------------|-----------------| 
+  Skeleton  | 2119.    |146.0    | 298.0    |   1.324       |   0.847       |       --       |       --        |
+  RedMons   | 4769.    |40.07    | 478.2    |   1.324       |   2.238       |       --       |    1.324        |
+  GreenMons | 50372    |17.64    | 763.0    |   1.324       |      --       |       --       |    1.324        |
+  Spider    | 3311.    |64.91    |     1    |      --       |      --       |    1.324       |       --        |
+
+ ---------------
+| MODIFICATIONS  
+ ---------------
+ 
+                   Completion Efficiency - Health left on Checkpoint:100%  > 60% - Major Adjustment With Penalty Adjustment factor of: 1.490988
+                   
+ 
+ ----------------------------
+| MODIFIED AI configuration 
+ ----------------------------
+ 
+            |  HEALTH  |  SPEED  |  ATTACK  |  ATTACKSPEED  |  ATTACKRANGE  |  WEBFREQUENCY  |  FIREBALL SPEED |    
+            |----------|---------|----------|---------------|---------------|----------------|-----------------| 
+  Skeleton  | 2385.    |164.3    | 335.4    |   1.490       |   0.954       |       --       |       --        
+  RedMons   | 5367.    |45.10    | 538.2    |   1.490       |   2.519       |       --       |    1.490        
+  GreenMons | 56694    |19.86    | 858.8    |   1.490       |      --       |       --       |    1.490        
+  Spider    | 3727.    |73.05    | 1.490    |      --       |      --       |        1       |       --        
+ 
+ 
+ 
+ 
+    
+    
+ =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== ===========
+ ===========                                CURRENT   AI   REPORT   COUNT: 17   REPORT TYPE:  CHECKPOINT
+ ===========                                                        Statistics              
+ =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== ===========
+ 
+ 
+ -----------------------------------------------
+| GIVEN damage over time period of last stage
+ -----------------------------------------------
+
+            | ENEMIES      | ENEMIES      |  AVERAGE     |  TOTAL       | ENEMIES      | ENEMIES      | AVERAGE      | TOTAL        |
+            | HIT          | KILLED       |  DAMAGE      |  DAMAGE      | HIT(ALL)     | KILLED(ALL)  | DAMAGE(ALL)  | DAMAGE(ALL ) |
+            |--------------|--------------|--------------|--------------|--------------|--------------|--------------|--------------|    
+  Skeleton  |       0      |       0      |     NaN      |       0      |      12      |       0      |   32.43      |   389.2      |
+  RedMons   |       0      |       0      |     NaN      |       0      |       0      |       2      |     NaN      |       0      |
+  GreenMons |       0      |       0      |     NaN      |       0      |       0      |       0      |     NaN      |       0      |
+  Spider    |       0      |       0      |     NaN      |       0      |       0      |       0      |     NaN      |       0      |
+ 
+ --------------------------------------------------
+| RECEIVED damage over time period of last stage
+ --------------------------------------------------
+ 
+            | DAMAGE      | DAMAGE      | HEALTH     | 
+            | THIS ROUND  | OVERALL     | RECEIVED   |
+  Skeleton  |      0      |    805      |     --     |
+  RedMons   |      0      |      0      |     --     |
+  GreenMons |      0      |      0      |     --     |
+  Spider    |      0      |      0      |     --     |
+  TOTAL     |      0      |    805      |     --     |
+  Hearts    |     --      |     --      |      0     |
+ 
+ 
+ ----------------------------
+| PREVIOUS AI configuration 
+ ----------------------------
+ 
+            |  HEALTH  |  SPEED  |  ATTACK  |  ATTACKSPEED  |  ATTACKRANGE  |  WEBFREQUENCY  |  FIREBALL SPEED |    
+            |----------|---------|----------|---------------|---------------|----------------|-----------------| 
+  Skeleton  | 2385.    |164.3    | 335.4    |   1.490       |   0.954       |       --       |       --        |
+  RedMons   | 5367.    |45.10    | 538.2    |   1.490       |   2.519       |       --       |    1.490        |
+  GreenMons | 56694    |19.86    | 858.8    |   1.490       |      --       |       --       |    1.490        |
+  Spider    | 3727.    |73.05    |     1    |      --       |      --       |    1.490       |       --        |
+
+ ---------------
+| MODIFICATIONS  
+ ---------------
+ 
+                   Completion Efficiency - Health left on Checkpoint:100%  > 60% - Major Adjustment With Penalty Adjustment factor of: 1.888739
+                   
+ 
+ ----------------------------
+| MODIFIED AI configuration 
+ ----------------------------
+ 
+            |  HEALTH  |  SPEED  |  ATTACK  |  ATTACKSPEED  |  ATTACKRANGE  |  WEBFREQUENCY  |  FIREBALL SPEED |    
+            |----------|---------|----------|---------------|---------------|----------------|-----------------| 
+  Skeleton  | 3021.    |208.2    | 424.9    |   1.888       |   1.208       |       --       |       --        
+  RedMons   | 6799.    |57.13    | 681.8    |   1.888       |   3.191       |       --       |    1.888        
+  GreenMons | 71819    |25.16    | 1087.    |   1.888       |      --       |       --       |    1.888        
+  Spider    | 4721.    |92.54    | 1.888    |      --       |      --       |        1       |       --        
+ 
+ 
+ 
+ 
+    
+    
+ =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== ===========
+ ===========                                CURRENT   AI   REPORT   COUNT: 18   REPORT TYPE:  DEATH
+ ===========                                                        Statistics              
+ =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== ===========
+ 
+ 
+ -----------------------------------------------
+| GIVEN damage over time period of last life
+ -----------------------------------------------
+
+            | ENEMIES      | ENEMIES      |  AVERAGE     |  TOTAL       | ENEMIES      | ENEMIES      | AVERAGE      | TOTAL        |
+            | HIT          | KILLED       |  DAMAGE      |  DAMAGE      | HIT(ALL)     | KILLED(ALL)  | DAMAGE(ALL)  | DAMAGE(ALL ) |
+            |--------------|--------------|--------------|--------------|--------------|--------------|--------------|--------------|    
+  Skeleton  |      13      |       2      |   30.78      |   400.1      |      25      |       2      |   31.57      |   789.4      |
+  RedMons   |       0      |       1      |     NaN      |       0      |       0      |       3      |     NaN      |       0      |
+  GreenMons |       0      |       0      |     NaN      |       0      |       0      |       0      |     NaN      |       0      |
+  Spider    |       0      |       0      |     NaN      |       0      |       0      |       0      |     NaN      |       0      |
+ 
+ --------------------------------------------------
+| RECEIVED damage over time period of last life
+ --------------------------------------------------
+ 
+            | DAMAGE      | DAMAGE      | HEALTH     | 
+            | THIS ROUND  | OVERALL     | RECEIVED   |
+  Skeleton  |  402.5      |  1207.      |     --     |
+  RedMons   |      0      |      0      |     --     |
+  GreenMons |      0      |      0      |     --     |
+  Spider    |      0      |      0      |     --     |
+  TOTAL     |  402.5      |  1207.      |     --     |
+  Hearts    |     --      |     --      |      0     |
+ 
+ 
+ ----------------------------
+| PREVIOUS AI configuration 
+ ----------------------------
+ 
+            |  HEALTH  |  SPEED  |  ATTACK  |  ATTACKSPEED  |  ATTACKRANGE  |  WEBFREQUENCY  |  FIREBALL SPEED |    
+            |----------|---------|----------|---------------|---------------|----------------|-----------------| 
+  Skeleton  | 3021.    |208.2    | 424.9    |   1.888       |   1.208       |       --       |       --        |
+  RedMons   | 6799.    |57.13    | 681.8    |   1.888       |   3.191       |       --       |    1.888        |
+  GreenMons | 71819    |25.16    | 1087.    |   1.888       |      --       |       --       |    1.888        |
+  Spider    | 4721.    |92.54    |     1    |      --       |      --       |    1.888       |       --        |
+
+ ---------------
+| MODIFICATIONS  
+ ---------------
+ 
+                   Death after checkpoint, very minor adjustment on skeleton required: 0.95 Overall adjustment: 0.96f
+                   
+ 
+ ----------------------------
+| MODIFIED AI configuration 
+ ----------------------------
+ 
+            |  HEALTH  |  SPEED  |  ATTACK  |  ATTACKSPEED  |  ATTACKRANGE  |  WEBFREQUENCY  |  FIREBALL SPEED |    
+            |----------|---------|----------|---------------|---------------|----------------|-----------------| 
+  Skeleton  |  1536    |105.8    | 218.2    |    0.97       |   0.620       |       --       |       --        
+  RedMons   |  3456    |29.04    | 346.5    |    0.96       |   1.622       |       --       |     0.96        
+  GreenMons | 36504    |12.78    | 552.9    |    0.96       |      --       |       --       |     0.96        
+  Spider    |  2400    |47.04    |  0.96    |      --       |      --       |        1       |       --        
+ 
+ 
+ 
+ 
+    
+    
+ =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== ===========
+ ===========                                CURRENT   AI   REPORT   COUNT: 19   REPORT TYPE:  CHECKPOINT
+ ===========                                                        Statistics              
+ =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== ===========
+ 
+ 
+ -----------------------------------------------
+| GIVEN damage over time period of last stage
+ -----------------------------------------------
+
+            | ENEMIES      | ENEMIES      |  AVERAGE     |  TOTAL       | ENEMIES      | ENEMIES      | AVERAGE      | TOTAL        |
+            | HIT          | KILLED       |  DAMAGE      |  DAMAGE      | HIT(ALL)     | KILLED(ALL)  | DAMAGE(ALL)  | DAMAGE(ALL ) |
+            |--------------|--------------|--------------|--------------|--------------|--------------|--------------|--------------|    
+  Skeleton  |       0      |       0      |     NaN      |       0      |      25      |       2      |   31.57      |   789.4      |
+  RedMons   |       0      |       0      |     NaN      |       0      |       0      |       3      |     NaN      |       0      |
+  GreenMons |       0      |       0      |     NaN      |       0      |       0      |       0      |     NaN      |       0      |
+  Spider    |       0      |       0      |     NaN      |       0      |       0      |       0      |     NaN      |       0      |
+ 
+ --------------------------------------------------
+| RECEIVED damage over time period of last stage
+ --------------------------------------------------
+ 
+            | DAMAGE      | DAMAGE      | HEALTH     | 
+            | THIS ROUND  | OVERALL     | RECEIVED   |
+  Skeleton  |      0      |  1207.      |     --     |
+  RedMons   |      0      |      0      |     --     |
+  GreenMons |      0      |      0      |     --     |
+  Spider    |      0      |      0      |     --     |
+  TOTAL     |      0      |  1207.      |     --     |
+  Hearts    |     --      |     --      |      0     |
+ 
+ 
+ ----------------------------
+| PREVIOUS AI configuration 
+ ----------------------------
+ 
+            |  HEALTH  |  SPEED  |  ATTACK  |  ATTACKSPEED  |  ATTACKRANGE  |  WEBFREQUENCY  |  FIREBALL SPEED |    
+            |----------|---------|----------|---------------|---------------|----------------|-----------------| 
+  Skeleton  |  1536    |105.8    | 218.2    |    0.97       |   0.620       |       --       |       --        |
+  RedMons   |  3456    |29.04    | 346.5    |    0.96       |   1.622       |       --       |     0.96        |
+  GreenMons | 36504    |12.78    | 552.9    |    0.96       |      --       |       --       |     0.96        |
+  Spider    |  2400    |47.04    |     1    |      --       |      --       |     0.96       |       --        |
+
+ ---------------
+| MODIFICATIONS  
+ ---------------
+ 
+                   Completion Efficiency - Health left on Checkpoint:100%  > 60% - Moderate Adjustment: 1.156381
+                   
+ 
+ ----------------------------
+| MODIFIED AI configuration 
+ ----------------------------
+ 
+            |  HEALTH  |  SPEED  |  ATTACK  |  ATTACKSPEED  |  ATTACKRANGE  |  WEBFREQUENCY  |  FIREBALL SPEED |    
+            |----------|---------|----------|---------------|---------------|----------------|-----------------| 
+  Skeleton  |  1536    |105.8    | 218.2    |    0.97       |   0.620       |       --       |       --        
+  RedMons   |  3456    |29.04    | 346.5    |    0.96       |   1.622       |       --       |     0.96        
+  GreenMons | 36504    |12.78    | 552.9    |    0.96       |      --       |       --       |     0.96        
+  Spider    |  2400    |47.04    |  0.96    |      --       |      --       |        1       |       --        
+ 
+ 
+ 
+ 
+    
+    
+ =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== ===========
+ ===========                                CURRENT   AI   REPORT   COUNT: 20   REPORT TYPE:  CHECKPOINT
+ ===========                                                        Statistics              
+ =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== ===========
+ 
+ 
+ -----------------------------------------------
+| GIVEN damage over time period of last stage
+ -----------------------------------------------
+
+            | ENEMIES      | ENEMIES      |  AVERAGE     |  TOTAL       | ENEMIES      | ENEMIES      | AVERAGE      | TOTAL        |
+            | HIT          | KILLED       |  DAMAGE      |  DAMAGE      | HIT(ALL)     | KILLED(ALL)  | DAMAGE(ALL)  | DAMAGE(ALL ) |
+            |--------------|--------------|--------------|--------------|--------------|--------------|--------------|--------------|    
+  Skeleton  |       0      |       0      |     NaN      |       0      |      25      |       2      |   31.57      |   789.4      |
+  RedMons   |       0      |       0      |     NaN      |       0      |       0      |       3      |     NaN      |       0      |
+  GreenMons |       0      |       0      |     NaN      |       0      |       0      |       0      |     NaN      |       0      |
+  Spider    |       0      |       0      |     NaN      |       0      |       0      |       0      |     NaN      |       0      |
+ 
+ --------------------------------------------------
+| RECEIVED damage over time period of last stage
+ --------------------------------------------------
+ 
+            | DAMAGE      | DAMAGE      | HEALTH     | 
+            | THIS ROUND  | OVERALL     | RECEIVED   |
+  Skeleton  |      0      |  1207.      |     --     |
+  RedMons   |      0      |      0      |     --     |
+  GreenMons |      0      |      0      |     --     |
+  Spider    |      0      |      0      |     --     |
+  TOTAL     |      0      |  1207.      |     --     |
+  Hearts    |     --      |     --      |      0     |
+ 
+ 
+ ----------------------------
+| PREVIOUS AI configuration 
+ ----------------------------
+ 
+            |  HEALTH  |  SPEED  |  ATTACK  |  ATTACKSPEED  |  ATTACKRANGE  |  WEBFREQUENCY  |  FIREBALL SPEED |    
+            |----------|---------|----------|---------------|---------------|----------------|-----------------| 
+  Skeleton  |  1536    |105.8    | 218.2    |    0.97       |   0.620       |       --       |       --        |
+  RedMons   |  3456    |29.04    | 346.5    |    0.96       |   1.622       |       --       |     0.96        |
+  GreenMons | 36504    |12.78    | 552.9    |    0.96       |      --       |       --       |     0.96        |
+  Spider    |  2400    |47.04    |     1    |      --       |      --       |     0.96       |       --        |
+
+ ---------------
+| MODIFICATIONS  
+ ---------------
+ 
+                   Completion Efficiency - Health left on Checkpoint:100%  > 60% - Major Adjustment With Penalty Adjustment factor of: 1.248679
+                   
+ 
+ ----------------------------
+| MODIFIED AI configuration 
+ ----------------------------
+ 
+            |  HEALTH  |  SPEED  |  ATTACK  |  ATTACKSPEED  |  ATTACKRANGE  |  WEBFREQUENCY  |  FIREBALL SPEED |    
+            |----------|---------|----------|---------------|---------------|----------------|-----------------| 
+  Skeleton  |  1536    |105.8    | 218.2    |    0.97       |   0.620       |       --       |       --        
+  RedMons   |  3456    |29.04    | 346.5    |    0.96       |   1.622       |       --       |     0.96        
+  GreenMons | 36504    |12.78    | 552.9    |    0.96       |      --       |       --       |     0.96        
+  Spider    |  2400    |47.04    |  0.96    |      --       |      --       |        1       |       --        
+ 
+ 
+ 
+ 
+    
+    
+ =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== ===========
+ ===========                                CURRENT   AI   REPORT   COUNT: 21   REPORT TYPE:  CHECKPOINT
+ ===========                                                        Statistics              
+ =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== ===========
+ 
+ 
+ -----------------------------------------------
+| GIVEN damage over time period of last stage
+ -----------------------------------------------
+
+            | ENEMIES      | ENEMIES      |  AVERAGE     |  TOTAL       | ENEMIES      | ENEMIES      | AVERAGE      | TOTAL        |
+            | HIT          | KILLED       |  DAMAGE      |  DAMAGE      | HIT(ALL)     | KILLED(ALL)  | DAMAGE(ALL)  | DAMAGE(ALL ) |
+            |--------------|--------------|--------------|--------------|--------------|--------------|--------------|--------------|    
+  Skeleton  |       0      |       0      |     NaN      |       0      |      25      |       2      |   31.57      |   789.4      |
+  RedMons   |       0      |       0      |     NaN      |       0      |       0      |       3      |     NaN      |       0      |
+  GreenMons |       0      |       0      |     NaN      |       0      |       0      |       0      |     NaN      |       0      |
+  Spider    |       0      |       0      |     NaN      |       0      |       0      |       0      |     NaN      |       0      |
+ 
+ --------------------------------------------------
+| RECEIVED damage over time period of last stage
+ --------------------------------------------------
+ 
+            | DAMAGE      | DAMAGE      | HEALTH     | 
+            | THIS ROUND  | OVERALL     | RECEIVED   |
+  Skeleton  |      0      |  1207.      |     --     |
+  RedMons   |      0      |      0      |     --     |
+  GreenMons |      0      |      0      |     --     |
+  Spider    |      0      |      0      |     --     |
+  TOTAL     |      0      |  1207.      |     --     |
+  Hearts    |     --      |     --      |      0     |
+ 
+ 
+ ----------------------------
+| PREVIOUS AI configuration 
+ ----------------------------
+ 
+            |  HEALTH  |  SPEED  |  ATTACK  |  ATTACKSPEED  |  ATTACKRANGE  |  WEBFREQUENCY  |  FIREBALL SPEED |    
+            |----------|---------|----------|---------------|---------------|----------------|-----------------| 
+  Skeleton  |  1536    |105.8    | 218.2    |    0.97       |   0.620       |       --       |       --        |
+  RedMons   |  3456    |29.04    | 346.5    |    0.96       |   1.622       |       --       |     0.96        |
+  GreenMons | 36504    |12.78    | 552.9    |    0.96       |      --       |       --       |     0.96        |
+  Spider    |  2400    |47.04    |     1    |      --       |      --       |     0.96       |       --        |
+
+ ---------------
+| MODIFICATIONS  
+ ---------------
+ 
+                   Completion Efficiency - Health left on Checkpoint:100%  > 60% - Major Adjustment With Penalty Adjustment factor of: 1.324724
+                   
+ 
+ ----------------------------
+| MODIFIED AI configuration 
+ ----------------------------
+ 
+            |  HEALTH  |  SPEED  |  ATTACK  |  ATTACKSPEED  |  ATTACKRANGE  |  WEBFREQUENCY  |  FIREBALL SPEED |    
+            |----------|---------|----------|---------------|---------------|----------------|-----------------| 
+  Skeleton  | 2119.    |146.0    | 298.0    |   1.324       |   0.847       |       --       |       --        
+  RedMons   | 4769.    |40.07    | 478.2    |   1.324       |   2.238       |       --       |    1.324        
+  GreenMons | 50372    |17.64    | 763.0    |   1.324       |      --       |       --       |    1.324        
+  Spider    | 3311.    |64.91    | 1.324    |      --       |      --       |        1       |       --        
+ 
+ 
+ 
+ 
+    
+    
+ =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== ===========
+ ===========                                CURRENT   AI   REPORT   COUNT: 22   REPORT TYPE:  CHECKPOINT
+ ===========                                                        Statistics              
+ =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== ===========
+ 
+ 
+ -----------------------------------------------
+| GIVEN damage over time period of last stage
+ -----------------------------------------------
+
+            | ENEMIES      | ENEMIES      |  AVERAGE     |  TOTAL       | ENEMIES      | ENEMIES      | AVERAGE      | TOTAL        |
+            | HIT          | KILLED       |  DAMAGE      |  DAMAGE      | HIT(ALL)     | KILLED(ALL)  | DAMAGE(ALL)  | DAMAGE(ALL ) |
+            |--------------|--------------|--------------|--------------|--------------|--------------|--------------|--------------|    
+  Skeleton  |       0      |       0      |     NaN      |       0      |      25      |       2      |   31.57      |   789.4      |
+  RedMons   |       0      |       0      |     NaN      |       0      |       0      |       3      |     NaN      |       0      |
+  GreenMons |       0      |       0      |     NaN      |       0      |       0      |       0      |     NaN      |       0      |
+  Spider    |       0      |       0      |     NaN      |       0      |       0      |       0      |     NaN      |       0      |
+ 
+ --------------------------------------------------
+| RECEIVED damage over time period of last stage
+ --------------------------------------------------
+ 
+            | DAMAGE      | DAMAGE      | HEALTH     | 
+            | THIS ROUND  | OVERALL     | RECEIVED   |
+  Skeleton  |      0      |  1207.      |     --     |
+  RedMons   |      0      |      0      |     --     |
+  GreenMons |      0      |      0      |     --     |
+  Spider    |      0      |      0      |     --     |
+  TOTAL     |      0      |  1207.      |     --     |
+  Hearts    |     --      |     --      |      0     |
+ 
+ 
+ ----------------------------
+| PREVIOUS AI configuration 
+ ----------------------------
+ 
+            |  HEALTH  |  SPEED  |  ATTACK  |  ATTACKSPEED  |  ATTACKRANGE  |  WEBFREQUENCY  |  FIREBALL SPEED |    
+            |----------|---------|----------|---------------|---------------|----------------|-----------------| 
+  Skeleton  | 2119.    |146.0    | 298.0    |   1.324       |   0.847       |       --       |       --        |
+  RedMons   | 4769.    |40.07    | 478.2    |   1.324       |   2.238       |       --       |    1.324        |
+  GreenMons | 50372    |17.64    | 763.0    |   1.324       |      --       |       --       |    1.324        |
+  Spider    | 3311.    |64.91    |     1    |      --       |      --       |    1.324       |       --        |
+
+ ---------------
+| MODIFICATIONS  
+ ---------------
+ 
+                   Completion Efficiency - Health left on Checkpoint:100%  > 60% - Major Adjustment With Penalty Adjustment factor of: 1.490988
+                   
+ 
+ ----------------------------
+| MODIFIED AI configuration 
+ ----------------------------
+ 
+            |  HEALTH  |  SPEED  |  ATTACK  |  ATTACKSPEED  |  ATTACKRANGE  |  WEBFREQUENCY  |  FIREBALL SPEED |    
+            |----------|---------|----------|---------------|---------------|----------------|-----------------| 
+  Skeleton  | 2385.    |164.3    | 335.4    |   1.490       |   0.954       |       --       |       --        
+  RedMons   | 5367.    |45.10    | 538.2    |   1.490       |   2.519       |       --       |    1.490        
+  GreenMons | 56694    |19.86    | 858.8    |   1.490       |      --       |       --       |    1.490        
+  Spider    | 3727.    |73.05    | 1.490    |      --       |      --       |        1       |       --        
+ 
+ 
+ 
+ 
+    
+    
+ =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== ===========
+ ===========                                CURRENT   AI   REPORT   COUNT: 23   REPORT TYPE:  CHECKPOINT
+ ===========                                                        Statistics              
+ =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== =========== ===========
+ 
+ 
+ -----------------------------------------------
+| GIVEN damage over time period of last stage
+ -----------------------------------------------
+
+            | ENEMIES      | ENEMIES      |  AVERAGE     |  TOTAL       | ENEMIES      | ENEMIES      | AVERAGE      | TOTAL        |
+            | HIT          | KILLED       |  DAMAGE      |  DAMAGE      | HIT(ALL)     | KILLED(ALL)  | DAMAGE(ALL)  | DAMAGE(ALL ) |
+            |--------------|--------------|--------------|--------------|--------------|--------------|--------------|--------------|    
+  Skeleton  |       0      |       0      |     NaN      |       0      |      25      |       2      |   31.57      |   789.4      |
+  RedMons   |       0      |       0      |     NaN      |       0      |       0      |       3      |     NaN      |       0      |
+  GreenMons |       0      |       0      |     NaN      |       0      |       0      |       0      |     NaN      |       0      |
+  Spider    |       0      |       0      |     NaN      |       0      |       0      |       0      |     NaN      |       0      |
+ 
+ --------------------------------------------------
+| RECEIVED damage over time period of last stage
+ --------------------------------------------------
+ 
+            | DAMAGE      | DAMAGE      | HEALTH     | 
+            | THIS ROUND  | OVERALL     | RECEIVED   |
+  Skeleton  |      0      |  1207.      |     --     |
+  RedMons   |      0      |      0      |     --     |
+  GreenMons |      0      |      0      |     --     |
+  Spider    |      0      |      0      |     --     |
+  TOTAL     |      0      |  1207.      |     --     |
+  Hearts    |     --      |     --      |      0     |
+ 
+ 
+ ----------------------------
+| PREVIOUS AI configuration 
+ ----------------------------
+ 
+            |  HEALTH  |  SPEED  |  ATTACK  |  ATTACKSPEED  |  ATTACKRANGE  |  WEBFREQUENCY  |  FIREBALL SPEED |    
+            |----------|---------|----------|---------------|---------------|----------------|-----------------| 
+  Skeleton  | 2385.    |164.3    | 335.4    |   1.490       |   0.954       |       --       |       --        |
+  RedMons   | 5367.    |45.10    | 538.2    |   1.490       |   2.519       |       --       |    1.490        |
+  GreenMons | 56694    |19.86    | 858.8    |   1.490       |      --       |       --       |    1.490        |
+  Spider    | 3727.    |73.05    |     1    |      --       |      --       |    1.490       |       --        |
+
+ ---------------
+| MODIFICATIONS  
+ ---------------
+ 
+                   Completion Efficiency - Health left on Checkpoint:100%  > 60% - Major Adjustment With Penalty Adjustment factor of: 1.888739
+                   
+ 
+ ----------------------------
+| MODIFIED AI configuration 
+ ----------------------------
+ 
+            |  HEALTH  |  SPEED  |  ATTACK  |  ATTACKSPEED  |  ATTACKRANGE  |  WEBFREQUENCY  |  FIREBALL SPEED |    
+            |----------|---------|----------|---------------|---------------|----------------|-----------------| 
+  Skeleton  | 3021.    |208.2    | 424.9    |   1.888       |   1.208       |       --       |       --        
+  RedMons   | 6799.    |57.13    | 681.8    |   1.888       |   3.191       |       --       |    1.888        
+  GreenMons | 71819    |25.16    | 1087.    |   1.888       |      --       |       --       |    1.888        
+  Spider    | 4721.    |92.54    | 1.888    |      --       |      --       |        1       |       --        
+ 
+ 
